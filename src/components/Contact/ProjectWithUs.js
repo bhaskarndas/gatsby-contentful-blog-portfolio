@@ -9,8 +9,8 @@ const ProjectWithUs = () => {
         <p>Feel free to call us</p>
       </div>
       <div className="project_phones">
-        <a href="tel:123456789">123456789</a>
-        <a href="tel:336123456789">336123456789</a>
+        <a href="tel:+919669278189">+91 9669278189</a>
+        <a href="tel:+918279690461">+91 8279690461</a>
       </div>
     </ProjectWrapper>
   )
